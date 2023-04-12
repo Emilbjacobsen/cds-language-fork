@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 bertopic
 scikit-learn
 pandas
 tensorflow
 numpy
+=======
+transformers
+tensorflow-cpu
+>>>>>>> c06ea73fd1cf9ccd7038bd163ea5599c7b3487d0
