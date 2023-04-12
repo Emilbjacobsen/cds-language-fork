@@ -1,3 +1,5 @@
 bertopic
 scikit-learn
 pandas
+tensorflow
+numpy
